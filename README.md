@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Figma Design Link: https://www.figma.com/community/file/1371198461115048422/website-design-landing-page
+
 ## Getting Started
 
 First, run the development server:
